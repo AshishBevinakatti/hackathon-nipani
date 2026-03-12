@@ -1,0 +1,7 @@
+{
+  "name": "Arogya-Vahini",
+  "description": "A secure, token-based health referral portal for rural India, digitizing the patient journey from village clinics to specialist hospitals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
